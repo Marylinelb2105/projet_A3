@@ -1,0 +1,26 @@
+
+
+######################## Repartition du travail ##################################
+
+ => traitements de la base de données pour améliorer la base
+
+	antoine
+
+=> recoder les variables multimodales en chiffres (catégories / niv gravité)
+
+	maryline
+
+=> mettre les variables num sous format numerique (date format date...)
+
+	theo
+
+=> construire serie chrono sur evolution nbre d'accident par mois / sem
+
+	theo
+
+=> construire jeu de données avec nbre accident selon gravité pour 100k hab par region
+
+	machin1
+
+
+

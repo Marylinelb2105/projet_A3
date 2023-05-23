@@ -1,0 +1,46 @@
+
+########### Description des données ################
+
+num_acc : numero du vehicule endommagé
+
+num_veh : type de permis de la personne concernée
+
+id_usa : 
+
+date : heure et date de l'accident
+
+ville : ville ou s'est produit l'accident
+
+id_code_insee : code insee de la ville
+
+latitude : latitude du lieu de l'accident
+
+longitude : longitude du lieu de l'accident
+
+descr_cat_veh : description du vehicule (PL : poids legers,  VU : vehicule utilitaire, VL : vehicule leger)
+
+descr_agglo : lieu de l'accident ( hors ou en agglomeration )
+
+descr_athmo : temps lors de l'accident
+
+descr_lum : luminosité
+
+descr_etat_surf : etat de la surface
+
+description_intersection : si c'est un rond point, une intersection...
+
+an_nais : année de naissance
+
+age : age de la personne concernée
+
+place : place de la personne concernée dans le véhicule
+
+descr_dispo_secu : ceinture / casque... utilisée ou pas
+
+descr_grav : etat de la personne accidentée
+
+descr_motif_traj : pourquoi la personne se deplaçait
+
+descr_type_col : comment les personnes sont elles rentrées en collision
+
+
